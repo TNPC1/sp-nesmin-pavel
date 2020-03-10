@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>DLK</title>
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/common.css">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,900&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Crimson+Text:400i,700i&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="container header">
+      <a href="#">
+        <img class="header-logo" src="/images/Union.png" alt="logo">
+      </a>
+      <nav class="header-nav">
+      <ul class="nav-item-list-hidden-marker">
+        <li><a class="nav-item" href="#">Blog</a></li>
+        <li><a class="nav-item" href="#">Catalog</a></li>
+        <li><a class="nav-item" href="#">About Us</a></li>
+        </ul>
+        <ul class="nav-item-list-hidden-marker_small">
+        <li><a class="nav-search" href="#"><img src="/images/XMLID 1397.png" alt="search"></a></li>
+        <li><a class="nav-item" href="#">Contact Us</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h1 class="contactus-main-title">Contact Us</h1>
+    <form class="container-contactus-form" action="https://form-data-dl.herokuapp.com/api/messages" method="POST"> 
+      <p>
+        <label class="form-label-name" for="input-name">Name</label>
+        <input class="form-input-name" name="name" placeholder="Ivan Ivanov" id="input-name" type="name">
+      </p>
+      <p>
+        <label class="form-label-phone" for="input-phone">Phone</label>
+        <input class="form-input-phone" name="phone" id="input-phone" type="tel">
+      </p>
+      <p>
+        <label class="form-label-email"  for="input-email">Email</label>
+        <input class="form-input-email" name="email" id="input-email" type="email">
+      </p>
+      <p>
+        <label  class="form-label-message" for="input-message">Message</label>
+        <input class="form-input-message" name="message" id="input-message" type="text" >
+      </p>
+      <input class="contactus-agree" type="checkbox" name="option" value="a1"><p class="contactus-agree-text">By clicking on the button, you consent to the processing of your personal data</p><Br>
+      <button class="contactus-agree-button" type="submit">Submit</button>
+    </form>
+    <p class="contactus-text">Our support team are on-hand to assist with any issues you are experiencing.</p>
+    <p class="contactus-text-2">Please use the form to contact us with your needs. Send us a message and we'll respond as soon as possible.</p>
+    <p class="contactus-text-gold">An expert is waiting to help you!</p>
+  </main>
+  <footer class="container-footer-contactus"> 
+    <nav class="footer-nav">
+    <h4 class="footer-nav-title">Navigation</h4>
+      <ul class="footer-nav-list-hidden-marker">
+        <li class="footer-nav-item"><a class="footer-nav-item-link" href="#">About Us</a></li>
+        <li class="footer-nav-item"><a class="footer-nav-item-link" href="#">Blog</a></li>
+        <li class="footer-nav-item"><a class="footer-nav-item-link" href="#">Design Services</a></li>
+        <li class="footer-nav-item"><a class="footer-nav-item-link" href="#">Featured on</a></li>
+        <li class="footer-nav-item"><a class="footer-nav-item-link" href="#">2018 Holiday Catalog</a></li>
+        <li class="footer-nav-item"><a class="footer-nav-item-link" href="#">Shop By Designer</a></li>
+  </ul>
+</nav>
+<section class="customer-info">
+  <h4 class="customer-info_title">Customer Information</h4>
+    <ul class="customer-info-list-hidden-marker">
+      <li class="customer-info-item"><a class="footer-nav-item-link" href="#">Contact Us</a></li>
+      <li class="customer-info-item"><a class="footer-nav-item-link" href="#">Sale Exclusions</a></li>
+      <li class="customer-info-item"><a class="footer-nav-item-link" href="#">Shipping & Returns</a></li>
+      <li class="customer-info-item"><a class="footer-nav-item-link" href="#">Terms & Conditions</a></li>
+      <li class="customer-info-item"><a class="footer-nav-item-link" href="#">Privacy Policy</a></li>
+      <li class="customer-info-item"><a class="footer-nav-item-link" href="#">Search</a></li>
+    </ul>
+</section>
+<section class="connect">
+    <h4 class="connect-title">Connect</h4>
+    <p>
+      <label class="form-input-connect" for="input-email">Email</label>
+      <input class="form-input-connect" name="email" id="input-email" type="email">
+    </p>
+    <button class="connect-button_black">Join</button>
+    <ul class="connect-items-list-hidden-marker" >
+      <li class="connect-item"><a href="#"><img src="/images/Facebook.png" alt="facebook"></a></li>
+      <li class="connect-item"><a href="#"><img src="/images/Twitter.png" alt="twitter"></a></li>
+      <li class="connect-item"><a href="#"><img src="/images/Pinterest.png" alt="pinterest"></a></li>
+      <li class="connect-item"><a href="#"><img src="/images/Instagram.png" alt="instagram"></a></li>
+    </ul>
+</section>
+<section class="company-tating">
+  <h4 class="company-rating-title">Company Rating</h4>
+</section>
+<section class="copyright">
+<h4 class="copyright-title">Copyright © 2018 Dlk • Design Life Kids</h4>
+</section>
+</footer>
+</main>
+</body>
+</html>

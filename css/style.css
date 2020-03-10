@@ -1,0 +1,1126 @@
+.poster-title {
+    font-family: Montserrat;
+font-weight: bold;
+font-size: 40px;
+line-height: 110%;
+color: #1E0606;
+}
+
+.poster-number{
+    position: absolute;
+width: 61px;
+height: 74px;
+left: 228px;
+top: 248px;
+color: rgba(30, 6, 6, 0.05);
+font-family: Montserrat;
+font-style: normal;
+font-weight: 300;
+font-size: 60px;
+line-height: 73px;
+}
+
+.poster-title_small {
+    font-family: Crimson Text;
+font-style: italic;
+font-size: 20px;
+line-height: 25px;
+color: #1E0606;
+}
+
+.category-title{
+    font-family: Montserrat;
+font-weight: bold;
+font-size: 38px;
+line-height: 46px;
+color: #1E0606;
+text-transform: uppercase;
+}
+
+.delivery-title{
+    font-family: Montserrat;
+font-weight: bold;
+font-size: 38px;
+line-height: 46px;
+color: #1E0606;
+text-transform: uppercase;
+margin-top: 30px;
+margin-left: 121px;
+}
+
+.delivery-link{
+    font-family: Crimson Text;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 32px;
+    color: #1E0606;
+}
+
+.guarantee-link {
+    font-family: Crimson Text;
+font-style: italic;
+font-size: 26px;
+line-height: 32px;
+color: #1E0606;
+}
+
+.credit-link{
+    font-family: Crimson Text;
+    font-style: italic;
+    font-size: 26px;
+    line-height: 32px;
+    color: #1E0606;
+}
+
+.deliverytext {
+    font-family: Open Sans;
+font-size: 16px;
+line-height: 22px;
+color: #1E0606;
+width: 480px;
+height: 66px;
+margin-top: 267px;
+margin-left: -95px;
+}
+
+.deliverytext-2 {
+    font-family: Open Sans;
+font-size: 16px;
+line-height: 22px;
+color: #1E0606;
+width: 480px;
+height: 66px;
+margin-top: 367px;
+margin-left: -480px;
+} 
+
+.dlk-title {
+    position: absolute;
+    font-family: Montserrat;
+font-weight: bold;
+line-height: 46px;
+font-size: 38px;
+width: 397px;
+height: 47px;
+left: 20px;
+color: #1E0606;
+text-transform: uppercase;
+}
+
+.dlk-background{
+    position: absolute;
+width: 543px;
+height: 236px;
+left: -10px;
+top: 56px;
+background: #E1F0F7;
+}
+
+.dlk-background-2{
+    position: absolute;
+    width: 543px;
+    height: 209px;
+    left: 600px;
+top: 56px;
+background: #E1F0F7;
+}
+
+.dlk-title_small {
+    position: absolute;
+    font-family: Crimson Text;
+font-style: italic;
+font-size: 26px;
+line-height: 32px;
+width: 105px;
+height: 33px;
+left: 20px;
+top: 60px;
+color: #1E0606;
+}
+
+.dlk-text {
+    position: absolute;
+    font-family: Open Sans;
+font-size: 16px;
+line-height: 22px;
+color: #1E0606;
+width: 483px;
+height: 67px;
+left: 20px;
+top: 110px;
+}
+
+.contacts-title {
+    position: absolute;
+    font-family: Montserrat;
+font-weight: bold;
+font-size: 38px;
+line-height: 46px;
+color: #1E0606;
+width: 217px;
+height: 47px;
+left: 630px;
+text-transform: uppercase;
+}
+
+.contacts-text {
+    position: absolute;
+    font-family: Open Sans;
+font-size: 16px;
+line-height: 22px;
+color: #1E0606;
+width: 483px;
+height: 66px;
+left: 630px;
+top: 70px;
+}
+
+.container-poster {
+    display: flex;
+    box-sizing: content-box;
+    width: 100%;
+    max-width: 1180px;
+    max-height: 411px;
+    margin-left: 200px;
+    margin-top: 129px;
+    background: #EEE4DB;
+}
+
+.poster-title {
+    position: absolute;
+width: 400px;
+height: 88px;
+left: 320px;
+top: 320px;
+}
+
+.poster-title_small{
+    position: absolute;
+    width: 200px;
+    height: 26px;
+    left: 320px;
+    top: 428px;
+    
+}
+
+.poster-button_black_js {    
+    position: absolute;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    font-size: 16px;
+    width: 150px;
+    height: 40px;
+    left: 320px;
+    top: 490px;
+    background-color: black;
+    color: white;
+}
+
+.poster-img {
+    position: relative;
+    width: 635.49px;
+    height: 461px;
+    left: 450px;
+    bottom: 85px;
+    
+}
+
+.poster-img-bottom {
+    position: absolute;
+width: 1180px;
+height: 39px;
+left: 200px;
+top: 608px;
+}
+
+.delivery-hidden-marker {
+    list-style-type: none;
+    padding-top: 17px;
+margin-top: 94px;
+margin-left: -245px;
+flex-wrap: wrap;
+}
+
+.container-delivery {
+    display: flex;
+    box-sizing: content-box;
+    width: 100%;
+    position: absolute;
+width: 1080px;
+height: 559px;
+left: 200px;
+top: 1243px;
+
+}
+
+.delivery-button_black{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    font-size: 16px;
+    width: 149px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    margin-left: -480px;
+    margin-top: 480px;
+}
+
+.delivery-link {
+    background-color: rgba(112, 187, 220, 0.2); 
+}
+
+.partners-list-hidden-marker {
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    list-style-type: none;
+width: 1180px;
+height: 61px;
+left: 160px;
+top: 1892px; 
+}
+
+.container-section-dlk {
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    box-sizing: content-box;
+    width: 100%;
+    position: absolute;
+width: 1143px;
+height: 349px;
+left: 200px;
+top: 2043px;
+}
+
+.map{
+    position: absolute;
+    width: 483px;
+    height: 196px;
+    left: 630px;
+    top: 165px;
+}
+.dlk-button_black{
+    font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 22px;
+position: absolute;
+width: 123px;
+height: 40px;
+left: 20px;
+top: 220px;
+text-transform: uppercase;
+background: #000000;
+color: white;
+}
+
+.container-category-products{
+    display: flex;
+    box-sizing: content-box;
+    width: 1080px;
+    height: 559px;
+    left: 110px;
+    top: 1243px;
+    
+}
+
+.category-title{
+    position: absolute;
+width: 500px;
+height: 47px;
+left: 200px;
+top: 732px;
+}
+
+
+.products-list-hidden-marker{
+    position: absolute;
+    padding-left: 0%;
+    display: flex;
+    justify-content: space-between;
+    box-sizing: content-box;
+    list-style-type: none;
+width: 1180px;
+height: 421px;
+left: 200px;
+top: 812px;
+}
+
+.category-products-text{
+    font-family: Open Sans;
+    font-size: 16px;
+    line-height: 22px;
+    color: #1E0606;
+    position: absolute;
+width: 580px;
+height: 44px;
+left: 210px;
+top: 1109px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container-categoryproducts{
+width: 1080px;
+height: 563px;
+left: 110px;
+top: 301px;
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    box-sizing: content-box;
+}
+
+.categoryproducts-list-hidden-marker{
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    box-sizing: content-box;
+    padding-left: 0%;
+width: 1080px;
+height: 563px;
+left: 0px;
+top: 0px;
+}
+
+.categoryproducts-title{
+    position: absolute;
+    width: 678px;
+    height: 49px;
+    left: 200px;
+    top: 162px;
+    padding-left: 0%;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 49px;
+    text-transform: uppercase;
+    color: #1E0606;
+}
+
+.categoryproducts-item-1{
+    position: absolute;
+width: 280px;
+height: 270px;
+left: 100px;
+top: 11px;
+
+}
+
+
+.categoryproducts-item-2{
+position: absolute;
+width: 280px;
+height: 270px;
+left: 400px;
+top: 11px;
+}
+
+.categoryproducts-item-3{
+    position: absolute;
+    width: 280px;
+    height: 270px;
+    left: 700px;
+    top: 11px;
+}
+
+.categoryproducts-item-4{
+    position: absolute;
+width: 280px;
+height: 270px;
+left: 300px;
+top: 304px;
+}
+
+.categoryproducts-item-5{
+    position: absolute;
+width: 280px;
+height: 270px;
+left: 600px;
+top: 304px;
+}
+
+.categoryproducts-item-6{
+    position: absolute;
+width: 280px;
+height: 270px;
+left: 900px;
+top: 304px;
+}
+
+.productdescription-container{
+    position: absolute;
+width: 680px;
+height: 256px;
+left: 310px;
+top: 914px;
+}
+
+.productdescription-title{
+    position: absolute;
+    width: 500px;
+    height: 47px;
+    left: 100px;
+    right: 43.14%;
+    top: 14px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 38px;
+    line-height: 46px;
+    text-transform: uppercase;
+    color: #1E0606;
+}
+
+.productdescription-info_main-1{
+    position: absolute;
+width: 680px;
+height: 44px;
+left: 100px;
+top: 86px;
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 22px;
+color: #1E0606;
+}
+
+.productdescription-info_main-2{
+position: absolute;
+width: 680px;
+height: 44px;
+left: 100px;
+top: 145px;
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 22px;
+color: #1E0606;
+}
+
+.productdescription-info_main-3{
+position: absolute;
+width: 680px;
+height: 66px;
+left: 100px;
+top: 204px;
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 22px;
+color: #1E0606;
+}
+
+    .container-footer-categoryproducts{
+        justify-content: space-between;
+        box-sizing: content-box;
+        display: flex;
+        position: absolute;
+        width: 100%;
+        height: 555px;
+        left: 0px;
+        top: 1230px;
+        background: #434343;
+    }
+
+
+    .container-footer-index{
+        justify-content: space-between;
+        box-sizing: content-box;
+        display: flex;
+        position: absolute;
+        width: 100%;
+        height: 555px;
+        left: 0px;
+        top: 2452px;
+        background: #434343;
+    }
+
+
+.container-footer-blog{
+    justify-content: space-between;
+    box-sizing: content-box;
+    display: flex;
+    position: absolute;
+    width: 100%;
+    height: 555px;
+    left: 0px;
+    top: 1425px;
+    background: #434343;
+}
+
+.container-footer-contactus{
+    justify-content: space-between;
+    box-sizing: content-box;
+    display: flex;
+    position: absolute;
+    width: 100%;
+    height: 555px;
+    left: 0px;
+    top: 903px;
+    background: #434343;
+}
+
+.container-footer-toyforkids{
+    justify-content: space-between;
+box-sizing: content-box;
+display: flex;
+position: absolute;
+width: 100%;
+height: 555px;
+left: 0px;
+top: 1765px;
+background: #434343;
+}
+
+
+
+
+
+
+
+
+
+.container-toyforkids-products{
+    padding-left: 0%;
+    box-sizing: content-box;
+display: flex;
+    position: absolute;
+    width: 1180px;
+    height: 1090px;
+    left: 110px;
+    top: 615px;
+}
+
+.toyforkids-products-list-hidden-marker{
+    position: absolute;
+width: 1180px;
+height: 1090px;
+left: 10px;
+top: -650px;
+    justify-content: space-between;
+    display: flex;
+    list-style-type: none;
+}
+
+.toyforkids-product-1{
+    position: absolute;
+    text-align: center;
+width: 380px;
+height: 497px;
+left: 110px;
+top: 615px;
+}
+
+.toyforkids-product-2{
+    position: absolute;
+    text-align: center;
+    width: 380px;
+    height: 497px;
+    left: 510px;
+    top: 615px;
+}
+
+.toyforkids-product-3{
+    position: absolute;
+    text-align: center;
+    width: 380px;
+    height: 497px;
+    left: 910px;
+    top: 615px;    
+}
+
+.toyforkids-product-4{
+    position: absolute;
+    text-align: center;
+    width: 380px;
+    height: 497px;
+    left: 110px;
+    top: 1132px;
+}
+
+.toyforkids-product-5{
+    position: absolute;
+    text-align: center;
+    width: 380px;
+    height: 497px;
+    left: 510px;
+    top: 1132px;
+    
+}
+
+.toyforkids-product-6{
+    position: absolute;
+    text-align: center;
+    width: 380px;
+    height: 497px;
+    left: 910px;
+    top: 1132px;
+}
+
+.container-toyforkids-settings{
+    position: absolute;
+width: 100%;
+height: 254px;
+left: 0px;
+top: 301px;
+    justify-content: space-between;
+    display: flex;
+background-color:rgba(125, 151, 218, 0.2);
+}
+
+.toyforkids-title{
+    position: absolute;
+width:500px;
+height: 49px;
+left: 200px;
+top: 162px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 49px;
+text-transform: uppercase;
+color: #1E0606;
+}
+
+.toyforkids-settings-checkbox{
+position: absolute;
+width: 75px;
+height: 170px;
+left: 511px;
+top: 42px;
+}
+
+.toyforkids-settings-radio{
+    position: absolute;
+    width: 131px;
+    height: 91px;
+    left: 670px;
+    top: 27px;
+    
+}
+
+.toyforkids-settings-title{
+    font-family: Open Sans;
+font-weight: bold;
+font-size: 16px;
+line-height: 22px;
+color: #1E0606;
+}
+
+.toyforkids-settings-amount{
+    justify-content: space-between;
+    display: flex;
+    position: absolute;
+width: 240px;
+height: 72px;
+left: 910px;
+top: 35px;
+}
+
+.toyforkids-settings-amount-button-1{
+    position: absolute;
+width: 80px;
+height: 35px;
+left: 0px;
+top: 40px;
+}
+
+.toyforkids-settings-amount-button-2{
+    position: absolute;
+width: 80px;
+height: 35px;
+left: 79px;
+top: 40px;
+}
+
+.toyforkids-settings-amount-button-3{
+    position: absolute;
+width: 80px;
+height: 35px;
+left: 158px;
+top: 40px;
+}
+
+.toyforkids-settings-apply{
+    position: absolute;
+    font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 22px;
+position: absolute;
+width: 95px;
+height: 40px;
+left: 1260px;
+top: 70px;
+text-transform: uppercase;
+background: #000000;
+color: white;
+}
+
+
+.toyforkids-product-title{
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 19px;
+text-align: center;
+color: #1E0606;
+}
+
+.toyforkids-product-price{
+    font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 22px;
+text-align: center;
+color: #1E0606;
+}
+
+
+
+
+.main-title{
+    position: absolute;
+    width: 119px;
+    height: 49px;
+    left: 90px;
+    top: -170px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 49px;
+    text-transform: uppercase;
+    color: #1E0606;
+    
+}
+
+.container-main-info{
+    position: absolute;
+width: 1180px;
+height: 1064px;
+left: 110px;
+top: 301px;
+display: flex;
+}
+
+.blog-list-hidden-marker{
+    box-sizing: content-box;
+display: flex;
+    position: absolute;
+    list-style-type: none;
+}
+
+.blog-item-1{
+    position: absolute;
+width: 380px;
+height: 491px;
+left: 110px;
+top: 0px;
+}
+
+.blog-item-2{
+    position: absolute;
+    width: 380px;
+    height: 435px;
+    left: 510px;
+    top: 0px;
+    
+}
+
+.blog-item-3{
+    position: absolute;
+    width: 380px;
+    height: 497px;
+    left: 910px;
+    top: 0px;
+}
+
+.blog-item-4{
+    position: absolute;
+    width: 380px;
+    height: 435px;
+    left: 110px;
+    top: 511px;
+}
+
+.blog-item-5{
+    position: absolute;
+    width: 380px;
+    height: 497px;
+    left: 510px;
+    top: 511px;
+}
+
+.blog-item-6{
+    position: absolute;
+    width: 380px;
+    height: 491px;
+    left: 910px;
+    top: 511px;
+}
+
+
+.blog-date{
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+color: #818181;
+}
+
+.blog-item-article{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 31px;
+color: #1E0606;
+}
+
+.blog-item-text{
+    font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+color: #1E0606;
+}
+
+
+
+
+
+.contactus-main-title{
+    position: absolute;
+width: 282px;
+height: 49px;
+left: 200px;
+top: 162px;
+font-family: Montserrat;
+font-style: normal;
+font-size: 40px;
+line-height: 49px;
+text-transform: uppercase;
+color: #1E0606;
+}
+
+
+.container-contactus-form{
+    position: absolute;
+width: 680px;
+height: 542px;
+left: 200px;
+top: 301px;
+background: #E5EAF8;;
+}
+
+.form-label-name{
+    position: absolute;
+    left: 40px;
+    top: 53px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    color: #1E0606;
+}
+
+
+
+.form-input-name{
+    position: absolute;
+    width: 600px;
+    height: 50px;
+    left: 40px;
+    top: 73px;
+    
+}
+
+
+.form-label-phone{
+    position: absolute;
+    left: 40px;
+    top: 146px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    color: #1E0606;
+}
+
+
+
+
+.form-input-phone{
+    position: absolute;
+width: 290px;
+height: 50px;
+left: 40px;
+top: 166px;
+}
+
+.form-label-email{
+    position: absolute;
+    left: 350px;
+    top: 146px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    color: #1E0606;
+}
+
+
+.form-input-email{
+    position: absolute;
+width: 290px;
+height: 50px;
+left: 350px;
+top: 166px;
+}
+
+.form-label-message{
+    position: absolute;
+    left: 40px ;
+    top: 239px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    color: #1E0606;
+
+}
+
+.form-input-message{
+    position: absolute;
+width: 600px;
+height: 150px;
+left: 40px ;
+top: 259px;
+}
+
+.contactus-agree{
+    position: absolute;
+    font-family: Roboto;
+    left: 40px;
+    top: 440px;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+color: #1E0606;
+
+}
+
+.contactus-agree-text{
+    position: absolute;
+    font-family: Roboto;
+    left: 60px;
+    top: 422px;
+}
+
+.contactus-agree-button{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    position: absolute;
+    width: 106px;
+    height: 40px;
+    left: 40px;
+    top: 470px;
+    text-transform: uppercase;
+    background: #000000;
+    color: white;
+}
+
+.contactus-text{
+    position: absolute;
+    width: 380px;
+    height: 66px;
+left: 65%;
+right: 7.86%;
+top: 293px;
+bottom: 76.34%;
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 22px;
+color: #1E0606;
+}
+
+.contactus-text-2{
+    position: absolute;
+    width: 380px;
+    height: 66px;
+    left: 65%;
+    right: 7.86%;
+    top: 355px;
+    bottom: 76.34%;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    color: #1E0606;
+}
+
+.contactus-text-gold{
+    position: absolute;
+    width: 370px;
+    height: 68px;
+left: 65%;
+right: 7.86%;
+top: 430px;
+bottom: 64.4%;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 34px;
+text-transform: uppercase;
+color: #C29974;
+}
+
+
+.modal-form_none{
+    display: none;
+}
